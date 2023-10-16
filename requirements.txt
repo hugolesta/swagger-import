@@ -1,0 +1,3 @@
+boto3==1.16.63
+botocore==1.19.63
+awscli
